@@ -1,2 +1,2 @@
 # django_project
-Django skelton project with custom user model
+Corporate website build using Django web framework.
